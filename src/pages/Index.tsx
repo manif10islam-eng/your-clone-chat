@@ -30,7 +30,7 @@ const Index = () => {
       {/* Header */}
       <header className="border-b border-border bg-card shadow-sm">
         <div className="max-w-4xl mx-auto px-4 py-4">
-          <h1 className="text-2xl font-bold text-foreground">AI Chatbot</h1>
+          <h1 className="text-2xl font-bold text-foreground">Muhammad Chatbot</h1>
           <p className="text-sm text-muted-foreground mt-1">Ask me anything!</p>
         </div>
       </header>
